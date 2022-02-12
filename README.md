@@ -1,0 +1,2 @@
+# Operatorler
+Operatorler Ödevi
